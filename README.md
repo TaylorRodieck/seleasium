@@ -1,2 +1,4 @@
-# seleasium
-Selenium through Python. Just easier
+# Seleasium
+Its just that easy.
+
+Will be adding example code after some testing...
