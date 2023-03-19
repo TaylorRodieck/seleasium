@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "seleasium_dirtydan"
+version = "0.0.1"
+authors = [
+  { name="Taylor Rodieck", email="tw.rodieck@gmail.com" },
+]
+description = "Basically just a class with methods that make selenium a bit easier."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/TaylorRodieck/seleasium"
